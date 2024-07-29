@@ -45,7 +45,7 @@ function Header() {
                                 <img src="./img/icons/youtube.png" alt="youtube"/>
                             </Link>
                         </li>
-                        <li className="social-icon">
+                        <li className="social-icon">  
                             <Link to="#">
                                 <img src="./img/icons/pinterest.png" alt="pinterest"/>
                             </Link>
